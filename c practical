@@ -1,0 +1,9 @@
+#include(stdio.h)
+#include(conio.h)
+intmain(
+int number ,testscore;
+printf("number%d");
+scanf("%d",&number);
+printf("testsscore : %d");
+scanf("%d,&testscore");
+retun=o;
